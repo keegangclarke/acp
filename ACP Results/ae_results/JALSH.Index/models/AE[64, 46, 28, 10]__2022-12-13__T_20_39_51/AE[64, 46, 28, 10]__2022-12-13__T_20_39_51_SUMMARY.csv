@@ -1,0 +1,11 @@
+, Layer (type),Output Shape,Param #
+0, flatten (Flatten),"(None, 64)",0
+1, dense (Dense),"(None, 64)",4160
+2, dense_1 (Dense),"(None, 46)",2990
+3, dense_2 (Dense),"(None, 28)",1316
+4, dense_3 (Dense),"(None, 10)",290
+5, dense_4 (Dense),"(None, 28)",308
+6, dense_5 (Dense),"(None, 46)",1334
+7, dense_6 (Dense),"(None, 64)",3008
+8, reshape (Reshape),"(None, 64)",0
+9,,,

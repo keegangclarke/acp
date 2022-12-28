@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,DAX.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Tue, 20 Dec 2022"
+Time:,14:37:55
+Sample:,"(0, -3586)"
+Covariance Type:,opg
+  No. Observations:  ,3586
+  Log Likelihood     ,10173.293
+  AIC                ,-20338.586
+  BIC                ,-20313.848
+  HQIC               ,-20329.768

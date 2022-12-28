@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,XU100.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Tue, 20 Dec 2022"
+Time:,12:36:48
+Sample:,"(0, -3553)"
+Covariance Type:,opg
+  No. Observations:  ,3553
+  Log Likelihood     ,9636.451
+  AIC                ,-19264.902
+  BIC                ,-19240.201
+  HQIC               ,-19256.093

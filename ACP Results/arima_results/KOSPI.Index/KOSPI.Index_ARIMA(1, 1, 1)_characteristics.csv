@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,KOSPI.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Tue, 20 Dec 2022"
+Time:,11:05:11
+Sample:,"(0, -3496)"
+Covariance Type:,opg
+  No. Observations:  ,3496
+  Log Likelihood     ,10389.817
+  AIC                ,-20771.634
+  BIC                ,-20746.997
+  HQIC               ,-20762.841

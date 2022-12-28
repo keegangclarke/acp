@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,HSI.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Tue, 20 Dec 2022"
+Time:,13:12:15
+Sample:,"(0, -3484)"
+Covariance Type:,opg
+  No. Observations:  ,3484
+  Log Likelihood     ,9692.710
+  AIC                ,-19377.420
+  BIC                ,-19352.797
+  HQIC               ,-19368.630
