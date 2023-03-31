@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,NIFTY.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Thu, 29 Dec 2022"
+Time:,16:00:37
+Sample:,"(0, -5485)"
+Covariance Type:,opg
+  No. Observations:  ,5485
+  Log Likelihood     ,15482.555
+  AIC                ,-30957.109
+  BIC                ,-30930.671
+  HQIC               ,-30947.886

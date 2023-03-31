@@ -1,0 +1,16 @@
+Item,Value
+Dep. Variable:,arima_resids
+Mean Model:,Zero Mean
+Vol Model:,GJR-GARCH
+Distribution:,Normal
+Method:,Maximum Likelihood
+  R-squared:         ,   0.000
+  Adj. R-squared:    ,   0.000
+  Log-Likelihood:    ,  -4802.70
+  AIC:               ,   9613.40
+  BIC:               ,   9637.53
+Date:,"Thu, Dec 29 2022"
+Time:,16:17:40
+  No. Observations:  ,3075
+  Df Residuals:      ,3075
+  Df Model:          ,0

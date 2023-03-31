@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,AS51.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Thu, 29 Dec 2022"
+Time:,13:53:38
+Sample:,"(0, -3579)"
+Covariance Type:,opg
+  No. Observations:  ,3579
+  Log Likelihood     ,10966.762
+  AIC                ,-21925.523
+  BIC                ,-21900.793
+  HQIC               ,-21916.707

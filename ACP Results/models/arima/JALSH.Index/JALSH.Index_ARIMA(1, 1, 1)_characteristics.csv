@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,JALSH.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Thu, 29 Dec 2022"
+Time:,14:00:14
+Sample:,"(0, -3535)"
+Covariance Type:,opg
+  No. Observations:  ,3535
+  Log Likelihood     ,10528.356
+  AIC                ,-21048.713
+  BIC                ,-21024.032
+  HQIC               ,-21039.909

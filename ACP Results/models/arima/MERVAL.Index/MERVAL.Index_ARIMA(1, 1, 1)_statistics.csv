@@ -1,0 +1,9 @@
+Statistic,Value
+Ljung-Box (L1) (Q):,0.36
+Prob(Q):,0.55
+Heteroskedasticity (H):,1.84
+Prob(H) (two-sided):,0.00
+  Jarque-Bera (JB):  ,316715.54
+  Prob(JB):          ,0.00
+  Skew:              ,-2.67
+  Kurtosis:          ,49.67

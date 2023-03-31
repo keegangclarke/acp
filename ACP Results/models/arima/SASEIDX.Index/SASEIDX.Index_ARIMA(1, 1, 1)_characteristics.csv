@@ -1,0 +1,12 @@
+Item,Value
+Dep. Variable:,SASEIDX.Index
+Model:,"SARIMAX(1, 1, 1)"
+Date:,"Thu, 29 Dec 2022"
+Time:,13:49:44
+Sample:,"(0, -2555)"
+Covariance Type:,opg
+  No. Observations:  ,2555
+  Log Likelihood     ,7031.968
+  AIC                ,-14055.936
+  BIC                ,-14032.554
+  HQIC               ,-14047.457
